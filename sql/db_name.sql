@@ -1,0 +1,1 @@
+create database demoapp_spring_springxml;
